@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:url("Cafe Attakai Sakura")
+    background-size:cover;
+}
+    
+
+
+    h1{ font-size: 50px;
+         line-height: 64px;
+        color: black;
+    }
+    h2{ font-size: 50px;
+        line-height: 64px;
+       color: black
+    }
+    h3{ font-size: 50px;
+        line-height: 64px;
+       color: black;
+    }
+    h4{ font-size: 50px;
+        line-height: 64px;
+       color: black;
+    }
+    h6{ font-size: 50px;
+        line-height: 64px;
+       color: black;
+    }
+    
+    p{font-size: 16px;
+     color: black;
+      margin: 15px 0 20px 0;
+    }
+    
+    .section-p1 {padding: 40px 80px;
+    }
+    
+    .section-m1 {
+        margin:40px 0
+    }
+    
+    body{
+        width: 100%;
+    }
+    
+    #header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;
+        background:burlywood;
+        box-shadow: 0px 15px rgba(0,0, 0, 0.6);
+    }
+    #navbar{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #navbar li{
+        list-style:none;
+        padding: 0 20px;
+    }
+    
+    #navbar li{text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    }
